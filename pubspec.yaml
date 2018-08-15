@@ -1,8 +1,8 @@
-name: phone_state_i
+name: phone_call_state
 description: Listen to Phone Call State and provide call back
 version: 0.0.1
 author: Apurv2017
-homepage:
+homepage: https://github.com/Apurv2017/PhoneCallState
 
 dependencies:
   flutter:
