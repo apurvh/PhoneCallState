@@ -1,12 +1,15 @@
 name: phone_state_i
 description: Listen to Phone Call State and provide call back
 version: 0.0.1
-author: Apurv2017
+author: Apurv2017 <apurv.hajare@gmail.com>
 homepage: https://github.com/Apurv2017/PhoneCallState
 
 dependencies:
   flutter:
     sdk: flutter
+
+environment:
+  sdk: '>=2.0.0 <3.0.0'
 
 # For information on the generic Dart part of this file, see the
 # following page: https://www.dartlang.org/tools/pub/pubspec
