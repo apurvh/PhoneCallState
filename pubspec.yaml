@@ -1,4 +1,4 @@
-name: phone_call_state
+name: phone_state_i
 description: Listen to Phone Call State and provide call back
 version: 0.0.1
 author: Apurv2017
